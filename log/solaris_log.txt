@@ -1,0 +1,500 @@
+Nov 29 23:42:23 solaris-host genunix: [ID 198 kern.success] Process started without errors
+Nov 29 23:42:23 solaris-host genunix: [ID 247 kern.success] Disk health check passed
+Nov 29 23:42:23 solaris-host genunix: [ID 711 kern.success] Process started without errors
+Nov 29 23:42:23 solaris-host genunix: [ID 375 kern.success] Network interface up
+Nov 29 23:42:23 solaris-host genunix: [ID 250 kern.success] Disk usage is normal
+Nov 29 23:42:23 solaris-host genunix: [ID 178 kern.success] Disk space is sufficient
+Nov 29 23:42:23 solaris-host genunix: [ID 14 kern.success] Service nginx started
+Nov 29 23:42:23 solaris-host genunix: [ID 324 kern.success] Network connection established
+Nov 29 23:42:23 solaris-host genunix: [ID 980 kern.success] Authentication successful for user root
+Nov 29 23:42:23 solaris-host genunix: [ID 826 kern.success] Disk health check passed
+Nov 29 23:42:23 solaris-host genunix: [ID 134 kern.success] Memory allocated successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 221 kern.success] Disk space is sufficient
+Nov 29 23:42:23 solaris-host genunix: [ID 697 kern.success] Configuration applied successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 10 kern.success] Filesystem mounted successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 828 kern.success] Authentication successful for user root
+Nov 29 23:42:23 solaris-host genunix: [ID 197 kern.success] Security audit passed successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 426 kern.success] Configuration applied successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 567 kern.success] Network connection established
+Nov 29 23:42:23 solaris-host genunix: [ID 739 kern.success] Login successful for user admin
+Nov 29 23:42:23 solaris-host genunix: [ID 815 kern.success] Reboot completed successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 56 kern.success] Security audit passed successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 567 kern.success] Backup completed without errors
+Nov 29 23:42:23 solaris-host genunix: [ID 860 kern.success] Reboot completed successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 630 kern.success] File transfer successful
+Nov 29 23:42:23 solaris-host genunix: [ID 127 kern.success] File transfer successful
+Nov 29 23:42:23 solaris-host genunix: [ID 854 kern.success] Memory allocated successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 71 kern.success] Login successful for user admin
+Nov 29 23:42:23 solaris-host genunix: [ID 857 kern.success] Network connection established
+Nov 29 23:42:23 solaris-host genunix: [ID 63 kern.success] Security audit passed successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 404 kern.success] Network connection established
+Nov 29 23:42:23 solaris-host genunix: [ID 565 kern.success] Reboot completed successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 276 kern.success] I/O operation completed successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 925 kern.success] Filesystem mounted successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 321 kern.success] System running optimally
+Nov 29 23:42:23 solaris-host genunix: [ID 883 kern.success] Security audit passed successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 678 kern.success] Network interface up
+Nov 29 23:42:23 solaris-host genunix: [ID 328 kern.success] Security audit passed successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 713 kern.success] File transfer successful
+Nov 29 23:42:23 solaris-host genunix: [ID 113 kern.success] File transfer successful
+Nov 29 23:42:23 solaris-host genunix: [ID 436 kern.success] Network interface up
+Nov 29 23:42:23 solaris-host genunix: [ID 141 kern.success] System initialized successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 326 kern.success] No issues detected
+Nov 29 23:42:23 solaris-host genunix: [ID 477 kern.success] No issues detected
+Nov 29 23:42:23 solaris-host genunix: [ID 472 kern.success] File transfer successful
+Nov 29 23:42:23 solaris-host genunix: [ID 949 kern.success] Kernel boot successful
+Nov 29 23:42:23 solaris-host genunix: [ID 331 kern.success] Configuration applied successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 433 kern.success] Kernel boot successful
+Nov 29 23:42:23 solaris-host genunix: [ID 663 kern.success] System running optimally
+Nov 29 23:42:23 solaris-host genunix: [ID 492 kern.success] Disk space is sufficient
+Nov 29 23:42:23 solaris-host genunix: [ID 202 kern.success] Authentication successful for user root
+Nov 29 23:42:23 solaris-host genunix: [ID 503 kern.success] Disk health check passed
+Nov 29 23:42:23 solaris-host genunix: [ID 683 kern.success] Disk usage is normal
+Nov 29 23:42:23 solaris-host genunix: [ID 308 kern.success] Login successful for user admin
+Nov 29 23:42:23 solaris-host genunix: [ID 223 kern.success] Security audit passed successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 355 kern.success] No issues detected
+Nov 29 23:42:23 solaris-host genunix: [ID 837 kern.success] Backup completed without errors
+Nov 29 23:42:23 solaris-host genunix: [ID 879 kern.success] No issues detected
+Nov 29 23:42:23 solaris-host genunix: [ID 731 kern.success] Software update applied successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 193 kern.success] Disk usage is normal
+Nov 29 23:42:23 solaris-host genunix: [ID 914 kern.success] Service apache2 started
+Nov 29 23:42:23 solaris-host genunix: [ID 222 kern.success] Kernel boot successful
+Nov 29 23:42:23 solaris-host genunix: [ID 82 kern.success] Filesystem mounted successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 58 kern.success] No issues detected
+Nov 29 23:42:23 solaris-host genunix: [ID 40 kern.success] System running optimally
+Nov 29 23:42:23 solaris-host genunix: [ID 927 kern.success] Security audit passed successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 604 kern.success] Disk space is sufficient
+Nov 29 23:42:23 solaris-host genunix: [ID 541 kern.success] Disk usage is normal
+Nov 29 23:42:23 solaris-host genunix: [ID 910 kern.success] No issues detected
+Nov 29 23:42:23 solaris-host genunix: [ID 49 kern.success] Service apache2 started
+Nov 29 23:42:23 solaris-host genunix: [ID 0 kern.success] Memory allocated successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 286 kern.success] Disk space is sufficient
+Nov 29 23:42:23 solaris-host genunix: [ID 600 kern.success] System initialized successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 916 kern.success] Network interface up
+Nov 29 23:42:23 solaris-host genunix: [ID 326 kern.success] Disk usage is normal
+Nov 29 23:42:23 solaris-host genunix: [ID 179 kern.success] Network interface up
+Nov 29 23:42:23 solaris-host genunix: [ID 798 kern.success] Login successful for user admin
+Nov 29 23:42:23 solaris-host genunix: [ID 509 kern.success] Disk usage is normal
+Nov 29 23:42:23 solaris-host genunix: [ID 306 kern.success] Login successful for user admin
+Nov 29 23:42:23 solaris-host genunix: [ID 205 kern.success] File transfer successful
+Nov 29 23:42:23 solaris-host genunix: [ID 496 kern.success] Disk space is sufficient
+Nov 29 23:42:23 solaris-host genunix: [ID 576 kern.success] Disk usage is normal
+Nov 29 23:42:23 solaris-host genunix: [ID 21 kern.success] Backup completed without errors
+Nov 29 23:42:23 solaris-host genunix: [ID 339 kern.success] Filesystem mounted successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 178 kern.success] I/O operation completed successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 193 kern.success] Memory allocated successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 925 kern.success] System initialized successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 236 kern.success] Security audit passed successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 832 kern.success] Authentication successful for user root
+Nov 29 23:42:23 solaris-host genunix: [ID 749 kern.success] Authentication successful for user root
+Nov 29 23:42:23 solaris-host genunix: [ID 488 kern.success] Service nginx started
+Nov 29 23:42:23 solaris-host genunix: [ID 705 kern.success] Login successful for user admin
+Nov 29 23:42:23 solaris-host genunix: [ID 851 kern.success] Configuration applied successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 406 kern.success] Kernel boot successful
+Nov 29 23:42:23 solaris-host genunix: [ID 750 kern.success] File transfer successful
+Nov 29 23:42:23 solaris-host genunix: [ID 441 kern.success] Kernel boot successful
+Nov 29 23:42:23 solaris-host genunix: [ID 424 kern.success] Service apache2 started
+Nov 29 23:42:23 solaris-host genunix: [ID 276 kern.success] File transfer successful
+Nov 29 23:42:23 solaris-host genunix: [ID 504 kern.success] Kernel boot successful
+Nov 29 23:42:23 solaris-host genunix: [ID 920 kern.success] System initialized successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 523 kern.success] Reboot completed successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 817 kern.success] Disk health check passed
+Nov 29 23:42:23 solaris-host genunix: [ID 91 kern.success] System initialized successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 152 kern.success] Process started without errors
+Nov 29 23:42:23 solaris-host genunix: [ID 98 kern.success] Reboot completed successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 77 kern.success] Network connection established
+Nov 29 23:42:23 solaris-host genunix: [ID 150 kern.success] Kernel boot successful
+Nov 29 23:42:23 solaris-host genunix: [ID 913 kern.success] Network connection established
+Nov 29 23:42:23 solaris-host genunix: [ID 253 kern.success] Process started without errors
+Nov 29 23:42:23 solaris-host genunix: [ID 202 kern.success] Software update applied successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 388 kern.success] Authentication successful for user root
+Nov 29 23:42:23 solaris-host genunix: [ID 840 kern.success] Configuration applied successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 857 kern.success] File transfer successful
+Nov 29 23:42:23 solaris-host genunix: [ID 769 kern.success] Kernel boot successful
+Nov 29 23:42:23 solaris-host genunix: [ID 710 kern.success] Application started without issues
+Nov 29 23:42:23 solaris-host genunix: [ID 184 kern.success] Disk space is sufficient
+Nov 29 23:42:23 solaris-host genunix: [ID 387 kern.success] Application started without issues
+Nov 29 23:42:23 solaris-host genunix: [ID 139 kern.success] Network interface up
+Nov 29 23:42:23 solaris-host genunix: [ID 331 kern.success] Application started without issues
+Nov 29 23:42:23 solaris-host genunix: [ID 258 kern.success] Reboot completed successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 403 kern.success] Security audit passed successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 340 kern.success] Authentication successful for user root
+Nov 29 23:42:23 solaris-host genunix: [ID 624 kern.success] Disk usage is normal
+Nov 29 23:42:23 solaris-host genunix: [ID 367 kern.success] Disk usage is normal
+Nov 29 23:42:23 solaris-host genunix: [ID 368 kern.success] Memory allocated successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 758 kern.success] Reboot completed successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 608 kern.success] Authentication successful for user root
+Nov 29 23:42:23 solaris-host genunix: [ID 546 kern.success] Filesystem mounted successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 609 kern.success] Disk health check passed
+Nov 29 23:42:23 solaris-host genunix: [ID 890 kern.success] Application started without issues
+Nov 29 23:42:23 solaris-host genunix: [ID 623 kern.success] Software update applied successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 590 kern.success] Application started without issues
+Nov 29 23:42:23 solaris-host genunix: [ID 814 kern.success] Authentication successful for user root
+Nov 29 23:42:23 solaris-host genunix: [ID 667 kern.success] Disk space is sufficient
+Nov 29 23:42:23 solaris-host genunix: [ID 296 kern.success] Service nginx started
+Nov 29 23:42:23 solaris-host genunix: [ID 282 kern.success] File transfer successful
+Nov 29 23:42:23 solaris-host genunix: [ID 192 kern.success] Security audit passed successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 396 kern.success] Kernel boot successful
+Nov 29 23:42:23 solaris-host genunix: [ID 653 kern.success] Disk health check passed
+Nov 29 23:42:23 solaris-host genunix: [ID 864 kern.success] Security audit passed successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 507 kern.success] Filesystem mounted successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 985 kern.success] Network connection established
+Nov 29 23:42:23 solaris-host genunix: [ID 948 kern.success] Disk space is sufficient
+Nov 29 23:42:23 solaris-host genunix: [ID 199 kern.success] Filesystem mounted successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 767 kern.success] Disk health check passed
+Nov 29 23:42:23 solaris-host genunix: [ID 724 kern.success] Disk usage is normal
+Nov 29 23:42:23 solaris-host genunix: [ID 376 kern.success] Application started without issues
+Nov 29 23:42:23 solaris-host genunix: [ID 833 kern.success] Memory allocated successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 112 kern.success] Disk health check passed
+Nov 29 23:42:23 solaris-host genunix: [ID 57 kern.success] Reboot completed successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 322 kern.success] I/O operation completed successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 668 kern.success] Kernel boot successful
+Nov 29 23:42:23 solaris-host genunix: [ID 308 kern.success] Memory allocated successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 537 kern.success] Reboot completed successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 618 kern.success] Application started without issues
+Nov 29 23:42:23 solaris-host genunix: [ID 18 kern.success] Process started without errors
+Nov 29 23:42:23 solaris-host genunix: [ID 441 kern.success] Security audit passed successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 278 kern.success] Backup completed without errors
+Nov 29 23:42:23 solaris-host genunix: [ID 653 kern.success] Backup completed without errors
+Nov 29 23:42:23 solaris-host genunix: [ID 570 kern.success] Login successful for user admin
+Nov 29 23:42:23 solaris-host genunix: [ID 322 kern.success] Configuration applied successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 869 kern.success] Login successful for user admin
+Nov 29 23:42:23 solaris-host genunix: [ID 537 kern.success] System running optimally
+Nov 29 23:42:23 solaris-host genunix: [ID 424 kern.success] Service nginx started
+Nov 29 23:42:23 solaris-host genunix: [ID 349 kern.success] Disk space is sufficient
+Nov 29 23:42:23 solaris-host genunix: [ID 68 kern.success] Filesystem mounted successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 17 kern.success] Memory allocated successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 561 kern.success] Security audit passed successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 859 kern.success] Service apache2 started
+Nov 29 23:42:23 solaris-host genunix: [ID 132 kern.success] Disk usage is normal
+Nov 29 23:42:23 solaris-host genunix: [ID 735 kern.success] Login successful for user admin
+Nov 29 23:42:23 solaris-host genunix: [ID 342 kern.success] I/O operation completed successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 229 kern.success] Disk health check passed
+Nov 29 23:42:23 solaris-host genunix: [ID 344 kern.success] Process started without errors
+Nov 29 23:42:23 solaris-host genunix: [ID 993 kern.success] Disk usage is normal
+Nov 29 23:42:23 solaris-host genunix: [ID 68 kern.success] Process started without errors
+Nov 29 23:42:23 solaris-host genunix: [ID 846 kern.success] Service apache2 started
+Nov 29 23:42:23 solaris-host genunix: [ID 487 kern.success] Disk usage is normal
+Nov 29 23:42:23 solaris-host genunix: [ID 437 kern.success] Service nginx started
+Nov 29 23:42:23 solaris-host genunix: [ID 334 kern.success] Memory allocated successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 598 kern.success] Reboot completed successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 975 kern.success] System initialized successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 697 kern.success] Service apache2 started
+Nov 29 23:42:23 solaris-host genunix: [ID 446 kern.success] Network interface up
+Nov 29 23:42:23 solaris-host genunix: [ID 296 kern.success] Disk space is sufficient
+Nov 29 23:42:23 solaris-host genunix: [ID 793 kern.success] Application started without issues
+Nov 29 23:42:23 solaris-host genunix: [ID 274 kern.success] Authentication successful for user root
+Nov 29 23:42:23 solaris-host genunix: [ID 782 kern.success] Backup completed without errors
+Nov 29 23:42:23 solaris-host genunix: [ID 603 kern.success] Software update applied successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 473 kern.success] Disk health check passed
+Nov 29 23:42:23 solaris-host genunix: [ID 24 kern.success] Service nginx started
+Nov 29 23:42:23 solaris-host genunix: [ID 841 kern.success] Configuration applied successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 839 kern.success] Network connection established
+Nov 29 23:42:23 solaris-host genunix: [ID 955 kern.success] Authentication successful for user root
+Nov 29 23:42:23 solaris-host genunix: [ID 738 kern.success] System running optimally
+Nov 29 23:42:23 solaris-host genunix: [ID 300 kern.success] System running optimally
+Nov 29 23:42:23 solaris-host genunix: [ID 816 kern.success] Login successful for user admin
+Nov 29 23:42:23 solaris-host genunix: [ID 890 kern.success] Filesystem mounted successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 111 kern.success] Disk usage is normal
+Nov 29 23:42:23 solaris-host genunix: [ID 789 kern.success] Network interface up
+Nov 29 23:42:23 solaris-host genunix: [ID 30 kern.success] System running optimally
+Nov 29 23:42:23 solaris-host genunix: [ID 413 kern.success] Filesystem mounted successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 486 kern.success] File transfer successful
+Nov 29 23:42:23 solaris-host genunix: [ID 866 kern.success] Application started without issues
+Nov 29 23:42:23 solaris-host genunix: [ID 230 kern.success] Filesystem mounted successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 305 kern.success] System running optimally
+Nov 29 23:42:23 solaris-host genunix: [ID 648 kern.success] Disk usage is normal
+Nov 29 23:42:23 solaris-host genunix: [ID 801 kern.success] Disk health check passed
+Nov 29 23:42:23 solaris-host genunix: [ID 243 kern.success] Security audit passed successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 722 kern.success] Service apache2 started
+Nov 29 23:42:23 solaris-host genunix: [ID 81 kern.success] Network interface up
+Nov 29 23:42:23 solaris-host genunix: [ID 138 kern.success] Security audit passed successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 131 kern.success] Disk usage is normal
+Nov 29 23:42:23 solaris-host genunix: [ID 589 kern.success] Disk health check passed
+Nov 29 23:42:23 solaris-host genunix: [ID 743 kern.success] File transfer successful
+Nov 29 23:42:23 solaris-host genunix: [ID 510 kern.success] Service apache2 started
+Nov 29 23:42:23 solaris-host genunix: [ID 570 kern.success] Memory allocated successfully
+Nov 29 23:42:23 solaris-host genunix: [ID 516 kern.success] Service nginx started
+Nov 29 23:42:23 solaris-host genunix: [ID 360 kern.success] Backup completed without errors
+Nov 29 23:42:23 solaris-host genunix: [ID 505 kern.success] Service nginx started
+Nov 29 23:42:23 solaris-host genunix: [ID 815 kern.success] Service nginx started
+Nov 29 23:42:24 solaris-host genunix: [ID 617 kern.success] Service nginx started
+Nov 29 23:42:24 solaris-host genunix: [ID 68 kern.success] Disk space is sufficient
+Nov 29 23:42:24 solaris-host genunix: [ID 457 kern.success] Network connection established
+Nov 29 23:42:24 solaris-host genunix: [ID 786 kern.success] Process started without errors
+Nov 29 23:42:24 solaris-host genunix: [ID 303 kern.success] Process started without errors
+Nov 29 23:42:24 solaris-host genunix: [ID 874 kern.success] Memory allocated successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 88 kern.success] Network interface up
+Nov 29 23:42:24 solaris-host genunix: [ID 597 kern.success] Login successful for user admin
+Nov 29 23:42:24 solaris-host genunix: [ID 173 kern.success] File transfer successful
+Nov 29 23:42:24 solaris-host genunix: [ID 124 kern.success] Memory allocated successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 604 kern.success] Process started without errors
+Nov 29 23:42:24 solaris-host genunix: [ID 345 kern.success] Application started without issues
+Nov 29 23:42:24 solaris-host genunix: [ID 36 kern.success] Process started without errors
+Nov 29 23:42:24 solaris-host genunix: [ID 465 kern.success] Network connection established
+Nov 29 23:42:24 solaris-host genunix: [ID 77 kern.success] Configuration applied successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 675 kern.success] No issues detected
+Nov 29 23:42:24 solaris-host genunix: [ID 655 kern.success] Authentication successful for user root
+Nov 29 23:42:24 solaris-host genunix: [ID 865 kern.success] Reboot completed successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 306 kern.success] Login successful for user admin
+Nov 29 23:42:24 solaris-host genunix: [ID 430 kern.success] Filesystem mounted successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 200 kern.success] Memory allocated successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 667 kern.success] Backup completed without errors
+Nov 29 23:42:24 solaris-host genunix: [ID 465 kern.success] Disk health check passed
+Nov 29 23:42:24 solaris-host genunix: [ID 389 kern.success] Disk health check passed
+Nov 29 23:42:24 solaris-host genunix: [ID 713 kern.success] System running optimally
+Nov 29 23:42:24 solaris-host genunix: [ID 849 kern.success] System initialized successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 925 kern.success] System running optimally
+Nov 29 23:42:24 solaris-host genunix: [ID 403 kern.success] Security audit passed successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 582 kern.success] Disk space is sufficient
+Nov 29 23:42:24 solaris-host genunix: [ID 299 kern.success] No issues detected
+Nov 29 23:42:24 solaris-host genunix: [ID 669 kern.success] System initialized successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 571 kern.success] Service apache2 started
+Nov 29 23:42:24 solaris-host genunix: [ID 801 kern.success] Network connection established
+Nov 29 23:42:24 solaris-host genunix: [ID 599 kern.success] Configuration applied successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 175 kern.success] Kernel boot successful
+Nov 29 23:42:24 solaris-host genunix: [ID 512 kern.success] Disk usage is normal
+Nov 29 23:42:24 solaris-host genunix: [ID 980 kern.success] Kernel boot successful
+Nov 29 23:42:24 solaris-host genunix: [ID 78 kern.success] Process started without errors
+Nov 29 23:42:24 solaris-host genunix: [ID 512 kern.success] No issues detected
+Nov 29 23:42:24 solaris-host genunix: [ID 994 kern.success] Process started without errors
+Nov 29 23:42:24 solaris-host genunix: [ID 50 kern.success] Security audit passed successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 67 kern.success] I/O operation completed successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 103 kern.success] Reboot completed successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 372 kern.success] Configuration applied successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 207 kern.success] Configuration applied successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 196 kern.success] Filesystem mounted successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 587 kern.success] Backup completed without errors
+Nov 29 23:42:24 solaris-host genunix: [ID 620 kern.success] Filesystem mounted successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 89 kern.success] Application started without issues
+Nov 29 23:42:24 solaris-host genunix: [ID 449 kern.success] Disk health check passed
+Nov 29 23:42:24 solaris-host genunix: [ID 540 kern.success] Memory allocated successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 874 kern.success] Login successful for user admin
+Nov 29 23:42:24 solaris-host genunix: [ID 492 kern.success] Security audit passed successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 586 kern.success] No issues detected
+Nov 29 23:42:24 solaris-host genunix: [ID 487 kern.success] Backup completed without errors
+Nov 29 23:42:24 solaris-host genunix: [ID 655 kern.success] Disk space is sufficient
+Nov 29 23:42:24 solaris-host genunix: [ID 130 kern.success] Backup completed without errors
+Nov 29 23:42:24 solaris-host genunix: [ID 120 kern.success] No issues detected
+Nov 29 23:42:24 solaris-host genunix: [ID 416 kern.success] Login successful for user admin
+Nov 29 23:42:24 solaris-host genunix: [ID 901 kern.success] No issues detected
+Nov 29 23:42:24 solaris-host genunix: [ID 412 kern.success] Disk usage is normal
+Nov 29 23:42:24 solaris-host genunix: [ID 418 kern.success] Security audit passed successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 28 kern.success] I/O operation completed successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 360 kern.success] Network connection established
+Nov 29 23:42:24 solaris-host genunix: [ID 10 kern.success] Service apache2 started
+Nov 29 23:42:24 solaris-host genunix: [ID 581 kern.success] File transfer successful
+Nov 29 23:42:24 solaris-host genunix: [ID 988 kern.success] Application started without issues
+Nov 29 23:42:24 solaris-host genunix: [ID 187 kern.success] Kernel boot successful
+Nov 29 23:42:24 solaris-host genunix: [ID 654 kern.success] Service nginx started
+Nov 29 23:42:24 solaris-host genunix: [ID 291 kern.success] Network connection established
+Nov 29 23:42:24 solaris-host genunix: [ID 696 kern.success] Disk usage is normal
+Nov 29 23:42:24 solaris-host genunix: [ID 736 kern.success] Reboot completed successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 928 kern.success] Reboot completed successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 219 kern.success] Application started without issues
+Nov 29 23:42:24 solaris-host genunix: [ID 930 kern.success] Application started without issues
+Nov 29 23:42:24 solaris-host genunix: [ID 459 kern.success] Configuration applied successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 954 kern.success] Software update applied successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 522 kern.success] Process started without errors
+Nov 29 23:42:24 solaris-host genunix: [ID 57 kern.success] Backup completed without errors
+Nov 29 23:42:24 solaris-host genunix: [ID 511 kern.success] Software update applied successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 140 kern.success] Network interface up
+Nov 29 23:42:24 solaris-host genunix: [ID 211 kern.success] Disk health check passed
+Nov 29 23:42:24 solaris-host genunix: [ID 186 kern.success] Filesystem mounted successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 151 kern.success] Security audit passed successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 127 kern.success] Software update applied successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 7 kern.success] Memory allocated successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 458 kern.success] Service apache2 started
+Nov 29 23:42:24 solaris-host genunix: [ID 867 kern.success] File transfer successful
+Nov 29 23:42:24 solaris-host genunix: [ID 295 kern.success] I/O operation completed successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 920 kern.success] Disk health check passed
+Nov 29 23:42:24 solaris-host genunix: [ID 407 kern.success] Application started without issues
+Nov 29 23:42:24 solaris-host genunix: [ID 978 kern.success] Disk space is sufficient
+Nov 29 23:42:24 solaris-host genunix: [ID 537 kern.success] Memory allocated successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 780 kern.success] Service nginx started
+Nov 29 23:42:24 solaris-host genunix: [ID 870 kern.success] Network interface up
+Nov 29 23:42:24 solaris-host genunix: [ID 26 kern.success] Network connection established
+Nov 29 23:42:24 solaris-host genunix: [ID 641 kern.success] Disk health check passed
+Nov 29 23:42:24 solaris-host genunix: [ID 737 kern.success] Network connection established
+Nov 29 23:42:24 solaris-host genunix: [ID 189 kern.success] Disk space is sufficient
+Nov 29 23:42:24 solaris-host genunix: [ID 612 kern.success] Memory allocated successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 747 kern.success] Configuration applied successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 497 kern.success] Reboot completed successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 302 kern.success] Reboot completed successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 774 kern.success] Security audit passed successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 734 kern.success] Disk space is sufficient
+Nov 29 23:42:24 solaris-host genunix: [ID 297 kern.success] System initialized successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 398 kern.success] System initialized successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 312 kern.success] System running optimally
+Nov 29 23:42:24 solaris-host genunix: [ID 338 kern.success] Process started without errors
+Nov 29 23:42:24 solaris-host genunix: [ID 627 kern.success] Login successful for user admin
+Nov 29 23:42:24 solaris-host genunix: [ID 836 kern.success] Backup completed without errors
+Nov 29 23:42:24 solaris-host genunix: [ID 72 kern.success] I/O operation completed successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 329 kern.success] Authentication successful for user root
+Nov 29 23:42:24 solaris-host genunix: [ID 291 kern.success] System initialized successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 182 kern.success] Backup completed without errors
+Nov 29 23:42:24 solaris-host genunix: [ID 646 kern.success] Disk space is sufficient
+Nov 29 23:42:24 solaris-host genunix: [ID 410 kern.success] Application started without issues
+Nov 29 23:42:24 solaris-host genunix: [ID 711 kern.success] Login successful for user admin
+Nov 29 23:42:24 solaris-host genunix: [ID 177 kern.success] Disk health check passed
+Nov 29 23:42:24 solaris-host genunix: [ID 523 kern.success] System initialized successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 422 kern.success] Security audit passed successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 114 kern.success] Network connection established
+Nov 29 23:42:24 solaris-host genunix: [ID 592 kern.success] Service nginx started
+Nov 29 23:42:24 solaris-host genunix: [ID 117 kern.success] System initialized successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 875 kern.success] Security audit passed successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 170 kern.success] Filesystem mounted successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 153 kern.success] Configuration applied successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 988 kern.success] Backup completed without errors
+Nov 29 23:42:24 solaris-host genunix: [ID 377 kern.success] Application started without issues
+Nov 29 23:42:24 solaris-host genunix: [ID 190 kern.success] No issues detected
+Nov 29 23:42:24 solaris-host genunix: [ID 162 kern.success] Disk health check passed
+Nov 29 23:42:24 solaris-host genunix: [ID 300 kern.success] Kernel boot successful
+Nov 29 23:42:24 solaris-host genunix: [ID 628 kern.success] Disk space is sufficient
+Nov 29 23:42:24 solaris-host genunix: [ID 786 kern.success] System running optimally
+Nov 29 23:42:24 solaris-host genunix: [ID 986 kern.success] Authentication successful for user root
+Nov 29 23:42:24 solaris-host genunix: [ID 374 kern.success] Reboot completed successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 618 kern.success] Authentication successful for user root
+Nov 29 23:42:24 solaris-host genunix: [ID 869 kern.success] Service nginx started
+Nov 29 23:42:24 solaris-host genunix: [ID 4 kern.success] Application started without issues
+Nov 29 23:42:24 solaris-host genunix: [ID 198 kern.success] Configuration applied successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 850 kern.success] I/O operation completed successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 353 kern.success] Login successful for user admin
+Nov 29 23:42:24 solaris-host genunix: [ID 180 kern.success] Service nginx started
+Nov 29 23:42:24 solaris-host genunix: [ID 747 kern.success] System initialized successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 641 kern.success] System running optimally
+Nov 29 23:42:24 solaris-host genunix: [ID 947 kern.success] Process started without errors
+Nov 29 23:42:24 solaris-host genunix: [ID 365 kern.success] System initialized successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 365 kern.success] Authentication successful for user root
+Nov 29 23:42:24 solaris-host genunix: [ID 23 kern.success] Reboot completed successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 929 kern.success] File transfer successful
+Nov 29 23:42:24 solaris-host genunix: [ID 690 kern.success] Service apache2 started
+Nov 29 23:42:24 solaris-host genunix: [ID 463 kern.success] Software update applied successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 282 kern.success] Memory allocated successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 864 kern.success] Security audit passed successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 513 kern.success] Kernel boot successful
+Nov 29 23:42:24 solaris-host genunix: [ID 711 kern.success] Login successful for user admin
+Nov 29 23:42:24 solaris-host genunix: [ID 309 kern.success] Security audit passed successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 335 kern.success] No issues detected
+Nov 29 23:42:24 solaris-host genunix: [ID 553 kern.success] Backup completed without errors
+Nov 29 23:42:24 solaris-host genunix: [ID 994 kern.success] System initialized successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 625 kern.success] Network interface up
+Nov 29 23:42:24 solaris-host genunix: [ID 31 kern.success] File transfer successful
+Nov 29 23:42:24 solaris-host genunix: [ID 754 kern.success] Software update applied successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 311 kern.success] Authentication successful for user root
+Nov 29 23:42:24 solaris-host genunix: [ID 810 kern.success] Filesystem mounted successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 956 kern.success] No issues detected
+Nov 29 23:42:24 solaris-host genunix: [ID 305 kern.success] I/O operation completed successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 226 kern.success] Service nginx started
+Nov 29 23:42:24 solaris-host genunix: [ID 120 kern.success] Disk health check passed
+Nov 29 23:42:24 solaris-host genunix: [ID 578 kern.success] Process started without errors
+Nov 29 23:42:24 solaris-host genunix: [ID 784 kern.success] Security audit passed successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 869 kern.success] Filesystem mounted successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 163 kern.success] Application started without issues
+Nov 29 23:42:24 solaris-host genunix: [ID 384 kern.success] Disk health check passed
+Nov 29 23:42:24 solaris-host genunix: [ID 240 kern.success] Service apache2 started
+Nov 29 23:42:24 solaris-host genunix: [ID 793 kern.success] Kernel boot successful
+Nov 29 23:42:24 solaris-host genunix: [ID 47 kern.success] Filesystem mounted successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 214 kern.success] Kernel boot successful
+Nov 29 23:42:24 solaris-host genunix: [ID 169 kern.success] Filesystem mounted successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 678 kern.success] Service apache2 started
+Nov 29 23:42:24 solaris-host genunix: [ID 128 kern.success] Application started without issues
+Nov 29 23:42:24 solaris-host genunix: [ID 15 kern.success] Service apache2 started
+Nov 29 23:42:24 solaris-host genunix: [ID 685 kern.success] File transfer successful
+Nov 29 23:42:24 solaris-host genunix: [ID 459 kern.success] Security audit passed successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 305 kern.success] Application started without issues
+Nov 29 23:42:24 solaris-host genunix: [ID 878 kern.success] Authentication successful for user root
+Nov 29 23:42:24 solaris-host genunix: [ID 46 kern.success] File transfer successful
+Nov 29 23:42:24 solaris-host genunix: [ID 975 kern.success] Configuration applied successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 263 kern.success] Kernel boot successful
+Nov 29 23:42:24 solaris-host genunix: [ID 313 kern.success] No issues detected
+Nov 29 23:42:24 solaris-host genunix: [ID 189 kern.success] Service apache2 started
+Nov 29 23:42:24 solaris-host genunix: [ID 303 kern.success] File transfer successful
+Nov 29 23:42:24 solaris-host genunix: [ID 288 kern.success] I/O operation completed successfully
+Nov 29 23:42:24 solaris-host genunix: [ID 808 kern.success] System running optimally
+Nov 29 23:42:24 solaris-host genunix: [ID 719 kern.success] Network interface up
+Nov 29 23:42:24 solaris-host genunix: [ID 176 kern.fatal] Network unreachable
+Nov 29 23:42:24 solaris-host genunix: [ID 350 kern.warning] Disk space running low
+Nov 29 23:42:24 solaris-host genunix: [ID 341 kern.critical] Disk corruption detected
+Nov 29 23:42:24 solaris-host genunix: [ID 983 kern.warning] Critical disk failure
+Nov 29 23:42:24 solaris-host genunix: [ID 312 kern.fatal] Process crash
+Nov 29 23:42:24 solaris-host genunix: [ID 258 kern.error] Fatal kernel panic
+Nov 29 23:42:24 solaris-host genunix: [ID 72 kern.fatal] Process crash
+Nov 29 23:42:24 solaris-host genunix: [ID 505 kern.error] Service timeout
+Nov 29 23:42:24 solaris-host genunix: [ID 364 kern.critical] Process crash
+Nov 29 23:42:24 solaris-host genunix: [ID 961 kern.critical] Authentication failure
+Nov 29 23:42:24 solaris-host genunix: [ID 333 kern.warning] Disk usage warning
+Nov 29 23:42:24 solaris-host genunix: [ID 975 kern.critical] Memory error detected
+Nov 29 23:42:24 solaris-host genunix: [ID 8 kern.fatal] Disk space running low
+Nov 29 23:42:24 solaris-host genunix: [ID 830 kern.error] Disk usage warning
+Nov 29 23:42:24 solaris-host genunix: [ID 106 kern.critical] Disk corruption detected
+Nov 29 23:42:24 solaris-host genunix: [ID 929 kern.critical] Service failure
+Nov 29 23:42:24 solaris-host genunix: [ID 250 kern.critical] Memory error detected
+Nov 29 23:42:24 solaris-host genunix: [ID 802 kern.critical] Disk usage warning
+Nov 29 23:42:24 solaris-host genunix: [ID 362 kern.warning] Critical disk failure
+Nov 29 23:42:24 solaris-host genunix: [ID 555 kern.fatal] Disk corruption detected
+Nov 29 23:42:24 solaris-host genunix: [ID 550 kern.fatal] Disk corruption detected
+Nov 29 23:42:24 solaris-host genunix: [ID 305 kern.fatal] Disk space running low
+Nov 29 23:42:24 solaris-host genunix: [ID 174 kern.fatal] Disk corruption detected
+Nov 29 23:42:24 solaris-host genunix: [ID 507 kern.fatal] Authentication failure
+Nov 29 23:42:24 solaris-host genunix: [ID 839 kern.fatal] CPU overheating
+Nov 29 23:42:24 solaris-host genunix: [ID 443 kern.error] Authentication failure
+Nov 29 23:42:24 solaris-host genunix: [ID 357 kern.warning] Disk usage warning
+Nov 29 23:42:24 solaris-host genunix: [ID 104 kern.fatal] I/O error detected
+Nov 29 23:42:24 solaris-host genunix: [ID 927 kern.error] Disk space running low
+Nov 29 23:42:24 solaris-host genunix: [ID 581 kern.fatal] Critical disk failure
+Nov 29 23:42:24 solaris-host genunix: [ID 796 kern.error] Service timeout
+Nov 29 23:42:24 solaris-host genunix: [ID 475 kern.warning] Login failure
+Nov 29 23:42:24 solaris-host genunix: [ID 332 kern.error] Authentication failure
+Nov 29 23:42:24 solaris-host genunix: [ID 309 kern.fatal] I/O error detected
+Nov 29 23:42:24 solaris-host genunix: [ID 21 kern.warning] Login failure
+Nov 29 23:42:24 solaris-host genunix: [ID 799 kern.fatal] Critical disk failure
+Nov 29 23:42:24 solaris-host genunix: [ID 108 kern.warning] Fatal kernel panic
+Nov 29 23:42:24 solaris-host genunix: [ID 562 kern.error] Authentication failure
+Nov 29 23:42:24 solaris-host genunix: [ID 546 kern.critical] Network unreachable
+Nov 29 23:42:24 solaris-host genunix: [ID 934 kern.fatal] Authentication failure
+Nov 29 23:42:24 solaris-host genunix: [ID 376 kern.fatal] CPU overheating
+Nov 29 23:42:24 solaris-host genunix: [ID 830 kern.critical] Disk space running low
+Nov 29 23:42:24 solaris-host genunix: [ID 263 kern.error] I/O error detected
+Nov 29 23:42:24 solaris-host genunix: [ID 252 kern.error] Memory error detected
+Nov 29 23:42:24 solaris-host genunix: [ID 792 kern.fatal] I/O error detected
+Nov 29 23:42:24 solaris-host genunix: [ID 449 kern.fatal] Process crash
+Nov 29 23:42:24 solaris-host genunix: [ID 911 kern.critical] Memory error detected
+Nov 29 23:42:24 solaris-host genunix: [ID 408 kern.error] Disk space running low
+Nov 29 23:42:24 solaris-host genunix: [ID 428 kern.error] Fatal kernel panic
+Nov 29 23:42:24 solaris-host genunix: [ID 131 kern.fatal] Disk usage warning
+Nov 29 23:42:24 solaris-host genunix: [ID 505 kern.warning] Critical disk failure
+Nov 29 23:42:24 solaris-host genunix: [ID 210 kern.fatal] I/O error detected
+Nov 29 23:42:24 solaris-host genunix: [ID 185 kern.critical] Disk space running low
+Nov 29 23:42:24 solaris-host genunix: [ID 284 kern.critical] Memory error detected
+Nov 29 23:42:24 solaris-host genunix: [ID 577 kern.critical] Authentication failure
+Nov 29 23:42:24 solaris-host genunix: [ID 867 kern.error] CPU overheating
+Nov 29 23:42:24 solaris-host genunix: [ID 76 kern.critical] Service failure
+Nov 29 23:42:24 solaris-host genunix: [ID 19 kern.critical] Service failure
+Nov 29 23:42:24 solaris-host genunix: [ID 868 kern.error] Process crash
+Nov 29 23:42:24 solaris-host genunix: [ID 185 kern.warning] Disk space running low
+Nov 29 23:42:24 solaris-host genunix: [ID 879 kern.critical] Memory error detected
+Nov 29 23:42:24 solaris-host genunix: [ID 53 kern.critical] Service timeout
+Nov 29 23:42:24 solaris-host genunix: [ID 51 kern.warning] I/O error detected
+Nov 29 23:42:24 solaris-host genunix: [ID 246 kern.error] Service failure
+Nov 29 23:42:24 solaris-host genunix: [ID 681 kern.critical] Authentication failure
+Nov 29 23:42:24 solaris-host genunix: [ID 489 kern.fatal] Disk space running low
+Nov 29 23:42:24 solaris-host genunix: [ID 670 kern.critical] CPU overheating
+Nov 29 23:42:24 solaris-host genunix: [ID 215 kern.error] Memory error detected
+Nov 29 23:42:24 solaris-host genunix: [ID 715 kern.critical] Service timeout
+Nov 29 23:42:24 solaris-host genunix: [ID 625 kern.critical] Memory error detected
+Nov 29 23:42:24 solaris-host genunix: [ID 941 kern.error] Authentication failure
+Nov 29 23:42:24 solaris-host genunix: [ID 852 kern.error] Service timeout
+Nov 29 23:42:24 solaris-host genunix: [ID 138 kern.warning] Fatal kernel panic
+Nov 29 23:42:24 solaris-host genunix: [ID 808 kern.fatal] Service failure
+Nov 29 23:42:24 solaris-host genunix: [ID 812 kern.warning] Network unreachable
+Nov 29 23:42:24 solaris-host genunix: [ID 794 kern.critical] Authentication failure
+Nov 29 23:42:24 solaris-host genunix: [ID 525 kern.critical] Disk usage warning
+Nov 29 23:42:24 solaris-host genunix: [ID 249 kern.fatal] Disk space running low
+Nov 29 23:42:24 solaris-host genunix: [ID 398 kern.fatal] Critical disk failure
+Nov 29 23:42:24 solaris-host genunix: [ID 715 kern.warning] Service timeout
+Nov 29 23:42:24 solaris-host genunix: [ID 137 kern.warning] Critical disk failure
+Nov 29 23:42:24 solaris-host genunix: [ID 924 kern.error] Fatal kernel panic
+Nov 29 23:42:24 solaris-host genunix: [ID 44 kern.warning] CPU overheating
+Nov 29 23:42:24 solaris-host genunix: [ID 804 kern.critical] Process crash
+Nov 29 23:42:24 solaris-host genunix: [ID 469 kern.warning] Disk usage warning
