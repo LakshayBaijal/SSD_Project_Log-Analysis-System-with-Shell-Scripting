@@ -55,3 +55,7 @@ Modular Design: Facilitates extensibility by allowing the addition of more data 
    sudo ./test_auth.sh <date: yyyy-mm-dd> <start_time: hh:mm:ss> <end_time: hh:mm:ss>
    ```
    - **Custom Debug Scripts :** Replace test_auth.sh to desired  script.
+
+
+Keywords- 
+tutorial, from-scratch, how-to, example, demo, install, run, dataset, colab, c++, linux, system-calls, object-detection, opencv
